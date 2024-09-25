@@ -14,7 +14,7 @@
 
 [6 Reverse a String using Stack](6_Reverse_a_String_using_Stack.py)
 
-[7 stack that supports getMin() in O(1) time and O(1)](7_stack_that_supports_getMin() in_O(1)_time_and_O(1).py)
+[7 stack that supports getMin() in O(1) time and O(1)](7_stack_that_supports_getMin()_in_O(1)_time_and_O(1).py)
 
 [8 Find the next Greater element](8_Find_the_next_Greater_element.py)
 
